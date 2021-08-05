@@ -179,30 +179,18 @@
     border-color: #39a6b2;
   }
   
-
-  .intro p {
-    /* add this alongside your other declarations */
-    margin: 0 auto;
+  .trainers {
+    text-align: center;
   }
-
-    .intro h2 {
-    /* add this alongside your other declarations */
-    display: inline-block;
-  }
-
-  .trainers [
-      text-align: center;
-       ]
-
+  
   .trainer {
-      width: 900px;
-      margin: 0 auto 30px auto;
-      background: #024e76;
-      color:#fce138;
-      overflow: auto;
-      
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    color: #fce138;
+    overflow: auto;
   }
-
+  
   .trainer img {
     width: 35%;
     float: left;
@@ -212,17 +200,8 @@
     padding: 35px;
     float: left;
     width: 65%;
-    
-}
-
-.text-left {
-    text-align: left;
   }
   
-  .text-right {
-    text-align: right;
-  }
-
   .trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
@@ -238,6 +217,19 @@
     font-size: 17px;
     line-height: 1.3;
   }
+  
+  .text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+
+  
+
+
+
 
 
 
