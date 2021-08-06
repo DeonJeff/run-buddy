@@ -9,14 +9,9 @@
   }
 
   .page-tittle {
-      color: #fce138;
-  }
-
-    .h2 {
+        color: #fce138;
         display: inline-block;
-        border-bottom: 4px;
-        style: solid;
-        color:#fce138;
+        border-bottom: 4px solid #fce138;
         padding: 0 80px 15px 80px;
         font-weight: normal;
         font-size: 42px;
@@ -27,11 +22,8 @@
     .secondary-content {
         width: 80%;
         margin: center;
-    
-    }
-
-    .article {
         color: #024e76;
+    
     }
 
     .secondary-content h3 {
